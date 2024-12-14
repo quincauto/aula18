@@ -124,3 +124,11 @@ removerTarefa: Remove a tarefa clicada, identificada pelo índice.
 Renderização:
 Exibe um campo de entrada e um botão para adicionar tarefas.
 Mostra a lista de tarefas, onde cada item é clicável para remoção.
+
+
+# site funcionando 
+![imagem site](https://github.com/user-attachments/assets/ca417b71-8c30-4514-8cf0-451df6923830)
+
+
+
+ 
